@@ -3,3 +3,7 @@
 .circleci/load-env.sh:105,1531540800:105,m
 Makefile:15,1531540800:15,m
 .circleci/config.yml:15,1531540800:15,r
+
+[ver:1,total:120]
+.gtm/terminal.app:90,1531540800:90,r
+Makefile:30,1531540800:30,m
