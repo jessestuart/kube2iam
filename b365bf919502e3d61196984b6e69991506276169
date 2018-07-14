@@ -1,0 +1,4 @@
+[ver:1,total:300]
+.circleci/load-env.sh:150,1531537200:150,m
+.gtm/terminal.app:130,1531537200:130,r
+.circleci/config.yml:20,1531537200:20,m
