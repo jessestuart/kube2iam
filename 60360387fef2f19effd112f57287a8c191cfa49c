@@ -1,0 +1,6 @@
+[ver:1,total:240]
+.gtm/terminal.app:105,1531537200:105,r
+.circleci/load-env.sh:60,1531537200:60,m
+.circleci/config.yml:40,1531537200:40,m
+Makefile:20,1531537200:20,r
+.circleci/install-go.sh:15,1531537200:15,m
