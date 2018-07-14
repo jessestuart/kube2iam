@@ -3,3 +3,14 @@ Makefile:84,1531537200:60,1531540800:24,m
 .gtm/terminal.app:72,1531540800:72,r
 .circleci/build-binary.sh:12,1531540800:12,m
 .circleci/config.yml:12,1531540800:12,m
+
+[ver:1,total:60]
+Makefile:40,1531537200:40,m
+.gtm/terminal.app:20,1531537200:20,r
+
+[ver:1,total:60]
+.gtm/terminal.app:60,1531537200:60,r
+
+[ver:1,total:120]
+Makefile:70,1531537200:70,m
+.gtm/terminal.app:50,1531537200:50,r
