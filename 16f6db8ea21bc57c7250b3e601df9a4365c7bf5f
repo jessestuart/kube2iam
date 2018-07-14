@@ -1,0 +1,4 @@
+[ver:1,total:120]
+.circleci/build-binary.sh:50,1531537200:50,m
+.gtm/terminal.app:50,1531537200:50,r
+.circleci/build-image.sh:20,1531537200:20,r
