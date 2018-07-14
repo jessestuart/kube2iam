@@ -1,0 +1,4 @@
+[ver:1,total:120]
+.circleci/build-image.sh:45,1531544400:45,m
+.circleci/load-env.sh:45,1531544400:45,m
+.gtm/terminal.app:30,1531544400:30,r
