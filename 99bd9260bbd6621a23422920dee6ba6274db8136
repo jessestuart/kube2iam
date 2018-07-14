@@ -1,0 +1,4 @@
+[ver:1,total:60]
+Dockerfile:30,1531544400:30,m
+.circleci/build-image.sh:15,1531544400:15,m
+.gtm/terminal.app:15,1531544400:15,r
