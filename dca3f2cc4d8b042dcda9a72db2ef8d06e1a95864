@@ -1,0 +1,6 @@
+[ver:1,total:180]
+.circleci/build-binary.sh:90,1531540800:90,m
+.gtm/terminal.app:45,1531540800:45,r
+.circleci/load-env.sh:15,1531540800:15,m
+Makefile:15,1531540800:15,m
+.circleci/config.yml:15,1531540800:15,r
