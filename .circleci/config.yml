@@ -36,7 +36,7 @@ shared: &shared
 
     - run:
         name: Install build dependencies.
-        command: apk add --no-cache bash curl git jq make perl tree
+        command: apk add --upgrade --no-cache bash curl git jq make perl tree
 
     - run:
         name: Add dynamic shared vars to env.
@@ -94,7 +94,7 @@ jobs:
       - run:
           name: Add dynamic shared vars to env.
           command: |
-            apk add --no-cache bash curl jq
+            apk add --upgrade --no-cache bash curl jq
             .circleci/load-env.sh
             .circleci/install-manifest-tool.sh
             .circleci/push-manifest.sh
